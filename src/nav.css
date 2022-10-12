@@ -1,0 +1,10 @@
+
+.navbar{
+ background-color: #8758FF;
+ color: #F2F2F2;
+ font-family: 'Bungee', cursive;
+}
+.navbar h1{
+    padding: 10px;
+    font-size: 25px;
+}
